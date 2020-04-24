@@ -1,5 +1,5 @@
 body {
-  background-image: url("/backgrounds/flower.jpg");
+  background-image: url("backgrounds/flower.jpg");
   background-size: cover;
 }
 
@@ -20,6 +20,7 @@ div.transbox {
   padding: 10px;
   background-color: #ffedf0;
   border: 1px solid #545677;
+  color: #545677;
   opacity: 0.9;
   height: 150px;
   overflow: scroll;
